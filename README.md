@@ -3,7 +3,7 @@ A multi-agent system that generates and optimizes content using OpenAI's API. Th
 
 ## Project Structure
 ```
-multi_agent_content_optimization_system/
+multi_agent_content_optimization/
 ├── README.md
 ├── requirements.txt
 ├── setup.py
